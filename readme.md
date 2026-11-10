@@ -1,3 +1,5 @@
+![Password-Generator: Second Life password gadget](docs/images/social-preview.png)
+
 # Password Generator
 
 Create Random Passwords
